@@ -1,7 +1,6 @@
 # Codemetric-build-Calculator
-This is a console-based Python calculator that supports basic arithmetic operations: addition, subtraction, multiplication, division, and exponentiation. It includes error handling for invalid inputs and division by zero, and operates in a continuous loop until the user decides to exit.
-🔢 Console-Based Python Calculator
-This is a simple console-based calculator built with Python that allows users to perform basic arithmetic operations. It's designed for clarity, ease of use, and educational purposes.
+This is a console-based Python calculator that supports basic arithmetic operations: addition, subtraction, multiplication, division, and exponentiation. It includes error handling for invalid inputs and division by zero, and operates in a continuous loop until the user decides to exit. Console-Based Python Calculator,
+It's designed for clarity, ease of use, and educational purposes.
 
 ✨ Features
 ✅ Addition
@@ -20,6 +19,7 @@ This is a simple console-based calculator built with Python that allows users to
 
 ✅ Runs continuously until the user chooses to exit
 
+
 🧑‍💻 How to Use
 Clone the repository or download the Python file.
 
@@ -29,6 +29,7 @@ bash
 Copy
 Edit
 python calculator.py
+
 Choose an operation from the menu by entering the corresponding number.
 
 Enter the two numbers when prompted.
@@ -50,13 +51,15 @@ Select an operation (1/2/3/4/5/6): 2
 Enter the first number: 15
 Enter the second number: 6
 15.0 - 6.0 = 9.0
+
 📂 File Structure
 calculator.py — Main script with all functionality
 
+
 🚀 Requirements
 Python 3.x
-
 No external libraries are required.
+
 
 🧠 Ideal For:
 Beginners learning Python
